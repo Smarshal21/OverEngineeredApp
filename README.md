@@ -50,9 +50,13 @@ Tensorflowlite machine learning model is integrated in this application to proce
 
 # BUILD APKS
 1. Bird Detector - 
-[Bird Detector.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943510/Bird.Detector.zip)
-2. Chatsey - 
-[Chatsey.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943511/Chatsey.zip)
-3. Google Lens -                                  [Google Lens Clone.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943512/Google.Lens.Clone.zip)
+[Bird Detector.apk.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943538/Bird.Detector.apk.zip)
 
-4. Classroom(Main) - https://drive.google.com/file/d/1iQyl0RoQuAr3Wv_o9MFtIIMR0YwqnQ_7/view?usp=sharing
+2. Chatsey - 
+[Chatsey.apk.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943540/Chatsey.apk.zip)
+
+
+3. Google Lens - 
+[Google Lens Clone.apk.zip](https://github.com/Smarshal21/OverEngineeredApp/files/9943543/Google.Lens.Clone.apk.zip)
+
+4. Classroom(Main) -  https://drive.google.com/file/d/1u681xeD5PC4v0cB0bGOJBcap_2RzZ15t/view?usp=sharing
